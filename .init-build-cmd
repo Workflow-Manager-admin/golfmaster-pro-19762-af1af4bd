@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npx tsc --noEmit && npm test -- --ci",
+    "working_directory": "/home/kavia/workspace/code-generation/golfmaster-pro-19762-af1af4bd/golfmaster_pro_frontend"
+}
